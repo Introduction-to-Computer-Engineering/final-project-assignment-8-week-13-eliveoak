@@ -1,1 +1,4 @@
-This assignment [README](README.md) is _intentionally_ blank. It is part of the assignment to fill it. Read the [requirements](requirements.md) and [criteria](criteria.md).
+### Oscilloscope
+
+## Part i
+  This is the video for part i (Video)[https://imgur.com/a/ghAb5cp]
