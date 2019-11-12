@@ -14,3 +14,10 @@
 #### This is the video for Part 2 Section i subsection b
 
   [subsection b](https://imgur.com/a/v5tZJmJ)
+
+#### This is the video for Part 2 Section i subsection c
+
+  [subsection c](https://imgur.com/a/mphbWIl)
+  
+#### This is the video for Part 2 Section i subsection d
+
