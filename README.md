@@ -21,3 +21,13 @@
   
 #### This is the video for Part 2 Section i subsection d
 
+  [subsection d](https://imgur.com/a/SfhWVpz)
+  We got the readings for the minimum and maximum period and pulse ranges.
+  
+  Pulse range
+  Min: 1.98
+  Max: 18.8
+ 
+  Period range
+  Min: 11.2
+  Max: 20.05
