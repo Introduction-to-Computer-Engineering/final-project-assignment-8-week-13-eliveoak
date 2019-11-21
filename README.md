@@ -34,7 +34,7 @@
 
 # I2C Warmup
 
-## Part 2
+## Part 3
 ### Questions 
 #### Question a:
 UART Ports are asynchronous, and therefore require hardware overhead. UARTs are relatively complex and difficult 
@@ -44,5 +44,30 @@ SPI ports have an obvious drawback, being the number of pins required for connec
 
 I2C Chips are the best of both versions of hardware though. It combines just two wires, like 
 UART but it can support up to 1008 slaves. Also, it can support a multi-master system, which allows more than one master to communicare with all the devices that they're connected to. Unfortunately, the masters can't talk to each other. There's a little bit of overhead with I2C, for every 8 bits of data that are sent, one extra bit of metadata is sent as well. Also, I2C can be trivially implemented in software, and it's less complex than asynchronous serial.
+
+## Part 4
+
+### Section i
+
+#### Subsection a
+for this part i captured the address frame
+pictures: https://imgur.com/a/tDMZ2kG
+
+#### Subsection b
+when nothing is connected the i2c write function will continue to write to the arbatrary address
+
+#### Subsection c
+when writing to an internal address there is a difference in what is captured the address the signal is sent to will acknowledge the master and recieve additional data however there is not much difference otherwise
+
+### Section ii
+
+#### Subsection a
+the three addresses are the same the only difference between them is weather the binary ends in a 1 or a 0 indicating wheather its a read or write function.
+
+#### Subsection c+d
+numerical value 57
+
+#### Subsection e
+After moving the value at 101, it does change the movement.
 
 
